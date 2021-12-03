@@ -1,4 +1,4 @@
-byte enR = 6;
+byte enR = 6; //подключение пинов
 byte in1 = 5;
 byte in2 = 4;
 byte in3 = 3;
