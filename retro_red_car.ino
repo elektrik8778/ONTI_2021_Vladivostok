@@ -1,4 +1,4 @@
-byte enR = 6;
+byte enR = 6;//порты подключения 
 byte in1 = 5;
 byte in2 = 4;
 byte in3 = 3;
@@ -20,8 +20,8 @@ void setup() {
   
 
 void loop() {
-  forward_();
-  stop_();
+  //forward_();
+  //stop_();
   //backward_();
   //left_();
   //right_();
